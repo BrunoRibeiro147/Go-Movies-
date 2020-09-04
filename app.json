@@ -1,0 +1,9 @@
+{
+	"name": "appmovies",
+	"displayName": "appmovies",
+	"splash": {
+		"image": "./assets/logo.png",
+		"resizeMode": "contain",
+		"backgroundColor": "#000"
+	}
+}
